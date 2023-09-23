@@ -5,6 +5,7 @@
 [Session 1- Part 2- Dr. Wael Elsersy - https://youtu.be/nn6sPq8KbI8](https://youtu.be/nn6sPq8KbI8)
 - Continue to read the related works and start writing your own proposal
 
+
 # MSA-Projects-Ideas
 Project Selection and Starting Point
 
