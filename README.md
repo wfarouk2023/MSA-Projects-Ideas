@@ -1,3 +1,10 @@
+# Meeting and Sessions:
+[Session 1- Part 1-  Dr. Wael Elsersy - https://youtu.be/PO_I1rjIq1Q](https://youtu.be/PO_I1rjIq1Q)
+- How to decide your project Title and search keywords
+
+[Session 1- Part 2- Dr. Wael Elsersy - https://youtu.be/nn6sPq8KbI8](https://youtu.be/nn6sPq8KbI8)
+- Continue to read the related works and start writing your own proposal
+
 # MSA-Projects-Ideas
 Project Selection and Starting Point
 
