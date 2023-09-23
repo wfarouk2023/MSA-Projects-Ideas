@@ -6,8 +6,8 @@ Project Selection and Starting Point
 2. Malware Analysis and Detection: Develop a system or tool that analyzes and detects malware in computer systems. Explore different types of malware, their behaviors, and techniques used for detection. Implement algorithms and heuristics to identify and classify malicious software.
   Sample Video resources search :
  
- https://www.youtube.com/results?search_query=ANDROID+RANSOMWARE%3A+ANALYSIS+METHODS
- https://www.youtube.com/watch?v=G9G4mHOK4lI&list=PL1f72Oxv5SynYxt9LyclIQXfmHCJiMt-O
+-  https://www.youtube.com/results?search_query=ANDROID+RANSOMWARE%3A+ANALYSIS+METHODS
+-  https://www.youtube.com/watch?v=G9G4mHOK4lI&list=PL1f72Oxv5SynYxt9LyclIQXfmHCJiMt-O
  
 
 
